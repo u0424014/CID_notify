@@ -5,6 +5,6 @@
 * 指導老師 : 張弘毅
 ---------
 ### 簡介
->當市話有電話進線時，透過電路辨識電話號碼(Caller ID)，透過樹莓派查詢相關資料顯示並將資訊上傳到FireBase Server儲存，同步對手機進行通知。
+>當市話有電話進線時，透過電路辨識電話號碼(Caller ID)，再利用樹莓派查詢相關資料顯示並將資訊上傳到FireBase Server儲存，同步對手機進行通知。
 <img src="Screenshot_20170919-154535.png" height="800" width="450">
 <img src="Screenshot_20170919-154453.png" height="800" width="450">
