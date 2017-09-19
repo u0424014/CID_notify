@@ -1,8 +1,7 @@
-# CID_Notify NKFUST_0424035
-## NKFUST_0424035
-### NKFUST_0424035
-#### NKFUST_0424035
-##### NKFUST_0424035
-###### NKFUST_0424035
-
-![hello](https://i.imgur.com/jeCRdB8.gif)
+# CID_Notify 
+## 組別:第19組
+## 成員: 0424035 鄧仁豐
+## 專題題目: 市話CID辨識與通知
+## 指導老師:張弘毅
+## 介面:
+![hello]()
