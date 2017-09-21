@@ -9,6 +9,6 @@
 * 指導老師 : 張弘毅
 ---------
 ### 簡介
-<img src="p01" height="800" width="450">
-<img src="p02.png" height="800" width="450">
-<img src="p03.png" height="800" width="450">
+<img src="p01.jpg" height="800" width="450">
+<img src="p02.jpg" height="800" width="450">
+<img src="p03.jpg" height="800" width="450">
