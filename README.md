@@ -34,3 +34,10 @@
 
 ### 期中報告PPT
 https://drive.google.com/file/d/1iFrksD0eEOQu-noNhEiclHQg6h2k4NLo/view
+
+
+### 期末報告PPT
+https://drive.google.com/file/d/1OHNV370-3LidBGORHeutDfcVG6XCd25M/view?usp=sharing
+
+### 期末報告影片
+https://drive.google.com/file/d/1IytQis1Motzj6VPvayCQRHQIFhBZ7-1h/view?usp=sharing
